@@ -1,0 +1,10 @@
+exclude:
+- /bin/.*
+- /dist/.*
+- /docs/.*
+- /etc/.*
+- /examples/conf/.*
+- /examples/db/.*
+- /examples/dist/.*
+- /examples/log/.*
+- /examples/win_nt_services/.*
