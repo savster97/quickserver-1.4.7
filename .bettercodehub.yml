@@ -10,3 +10,4 @@ exclude:
   - /examples/win_nt_services/.*
 include:
   - /src/.*
+  - /examples/src/.*
